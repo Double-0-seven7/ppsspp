@@ -4,6 +4,7 @@ on:
   push:
     branches:
     - master
+    - infra2
     # For testing.
     - actions
     tags:
